@@ -6,7 +6,7 @@
 
     <groupId>de.redsmiletv</groupId>
     <artifactId>testdependency</artifactId>
-    <version>0.2.1</version>
+    <version>0.2.2</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
@@ -17,7 +17,7 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>GitHub RedSmileTV Apache Maven Packages</name>
+            <name>GitHub RedSmileTV Apache Maven Package</name>
             <url>https://maven.pkg.github.com/redsmiletv/testdependency</url>
         </repository>
     </distributionManagement>
