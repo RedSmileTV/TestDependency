@@ -6,7 +6,7 @@
 
     <groupId>de.redsmiletv</groupId>
     <artifactId>testdependency</artifactId>
-    <version>0.2.2</version>
+    <version>0.3.0</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
